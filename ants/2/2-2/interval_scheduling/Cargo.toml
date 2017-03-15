@@ -1,0 +1,10 @@
+[package]
+name = "interval_scheduling"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "interval_scheduling"
+path = "main.rs"
+

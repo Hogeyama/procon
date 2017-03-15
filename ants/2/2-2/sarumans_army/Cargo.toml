@@ -1,0 +1,9 @@
+[package]
+name = "sarumans_army"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "sarumans_army"
+path = "main.rs"

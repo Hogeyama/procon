@@ -1,0 +1,9 @@
+[package]
+name = "fence_repair"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "fence_repair"
+path = "main.rs"

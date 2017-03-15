@@ -1,0 +1,10 @@
+[package]
+name = "longest_increasing_subsequence"
+version = "0.1.0"
+
+[[bin]]
+name = "longest_increasing_subsequence"
+path = "main.rs"
+
+[dependencies]
+

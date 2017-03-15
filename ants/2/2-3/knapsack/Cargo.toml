@@ -1,0 +1,9 @@
+[package]
+name = "knapsack"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "knapsack"
+path = "main.rs"

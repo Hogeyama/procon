@@ -1,0 +1,10 @@
+[package]
+name = "A"
+version = "0.1.0"
+authors = ["Hogeyama <gan13027830@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "main"
+path = "main.rs"

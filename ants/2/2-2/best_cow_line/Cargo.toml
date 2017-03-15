@@ -1,0 +1,9 @@
+[package]
+name = "best_cow_line"
+version = "0.1.0"
+
+[dependencies]
+
+[[bin]]
+name = "best_cow_line"
+path = "main.rs"
